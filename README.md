@@ -4,7 +4,8 @@
 - 📫 How to reach me: Discord: hlqb#0001
 - 😄 Pronouns: hlqb/hlqbself
 - ⚡ Fun fact: made from baking soda water and eggs
-### Stats
+
+### Stats 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoketa)](https://github.com/anuraghazra/github-readme-stats)
 
 ### CS:GO Servers
