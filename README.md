@@ -5,5 +5,5 @@
 - 😄 Pronouns: hlqb/hlqbself
 - ⚡ Fun fact: made from baking soda water and eggs
 ### CS:GO Servers
-![image](https://user-images.githubusercontent.com/38434900/155958690-0959871d-01be-45f4-91ce-53690e3c943b.png)](https://clarityeu.com/)
+[![Header](https://user-images.githubusercontent.com/38434900/155959125-9f6781d6-5a8b-45eb-9b3c-407bb618cf6c.png "Header")](https://clarityeu.com/)
 
